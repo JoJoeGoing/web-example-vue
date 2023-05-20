@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router';
 import HelloWorld from './components/HelloWorld.vue';
-const p = import.meta.env.VITE_APP_TITLE
+const p = import.meta.env.VITE_APP_TITLE;
 </script>
 
 <template>
